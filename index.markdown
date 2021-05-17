@@ -1,7 +1,7 @@
 ---
 layout: home
 title: About
-permalink: /about/
+permalink: /
 ---
 
 I am an Associate Professor of Physics at Universidad Complutense de Madrid ([UCM](https://www.ucm.es)), where I teach and do research in high-energy astrophysics. I am also a member of the Institute of Particle and Cosmos Physics at UCM ([IPARCOS](https://www.ucm.es/iparcos/)).
