@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-I am an Associate Professor of Physics at Universidad Complutense de Madrid ([UCM](https://www.ucm.es)), where I teach and do research in high-energy astrophysics. I am also a member of the Institute of Particle and Cosmos Physics at UCM ([IPARCOS](https://www.ucm.es/iparcos/)).
+I am an Associate Professor of Physics at Universidad Complutense de Madrid ([UCM](https://www.ucm.es)), where I teach and do research in high-energy astrophysics. I am also a member of the Institute of Particle and Cosmos Physics ([IPARCOS](https://www.ucm.es/iparcos/)) and the High Energy Group ([GAE](https://gaeweb.hst.ucm.es/)) at UCM.
 
 You can find more about my research activities [here](/research/) and about my teaching activities [here](/teaching/).
 
