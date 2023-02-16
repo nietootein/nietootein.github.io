@@ -16,6 +16,6 @@ You can find more about my research activities [here](/research/) and about my t
 # Education
 
 * PhD in Physics, [UCM](https://www.ucm.es) (2006 - 2012)
-  * [Dark matter constraints from high-energy astrophysical observations](http://sagan.gae.ucm.es/~nieto/files/DNieto_thesis.pdf)
+  * [Dark matter constraints from high-energy astrophysical observations](https://eprints.ucm.es/id/eprint/15300/)
 * M.S. in Physics, [UCM](https://www.ucm.es) (2005 - 2006)
 * B.S. in Physics, [UCM](https://www.ucm.es) (2001 - 2005)
