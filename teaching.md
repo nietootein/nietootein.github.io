@@ -7,7 +7,7 @@ permalink: /teaching/
 If you are interested in doing your degree thesis (trabajo de fin de grado), master thesis (trabajo de fin de máster) or PhD thesis in any of the research topics that I work on, feel free to [contact me](mailto:d.nieto@ucm.es).
 
 # Schools and Workshops
-  * Academic year 2022/2024
+  * Academic year 2023/2024
     * [Machine Learning and Applications to Physics](https://indico.fis.ucm.es/e/mlap23/), IPARCOS Workshop Series
   * Academic year 2021/2022
     * [Applications of Artificial Intelligence to Science](https://www.ucm.es/eci//cursoecib01-onl), UCM Winter School of Experimental Sciences
