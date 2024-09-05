@@ -15,6 +15,8 @@ If you are interested in doing your degree thesis (trabajo de fin de grado), mas
     * [Applications of Artificial Intelligence to Science](https://www.ucm.es/eci//cursoecib01-onl), UCM Winter School of Experimental Sciences
 
 # Graduate-level courses
+  * Academic year 2024/2025
+    * Astroparticle Physics, Master in Astrophysics / Master in Theoretical Physics
   * Academic year 2023/2024
     * Astroparticle Physics, Master in Astrophysics / Master in Theoretical Physics
   * Academic year 2022/2023
@@ -23,6 +25,9 @@ If you are interested in doing your degree thesis (trabajo de fin de grado), mas
     * Astroparticle Physics, Master in Astrophysics / Master in Theoretical Physics
 
 # Undergraduate-level courses
+  * Academic year 2024/2025
+    * Atomic and Molecular Physics, Physics Undergraduate Program
+    * Physics Applied to Biology, Biology Undergraduate Program
   * Academic year 2023/2024
     * Atomic and Molecular Physics, Physics Undergraduate Program
     * Laboratory of Physics II, Physics Undergraduate Program
